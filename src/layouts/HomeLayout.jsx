@@ -20,7 +20,7 @@ const HomeLayout = () => {
                     </nav>
                 </section>
             </header>
-            <main className='mx-auto w-11/12 gap-5 grid grid-cols-12'>
+            <main className='mx-auto w-11/12 gap-5 grid grid-cols-12 '>
             <aside className='col-span-3' >
                 <LeftAside/>
             </aside>
